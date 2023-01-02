@@ -90,11 +90,13 @@ I'm Wanicha Mueangcharoen<!--[Abhishek Naidu](https://abhisheknaidu.tech)/> -->,
     ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF41C8.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white) 
     ![Figma](https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=Figma&logoColor=white) 
     ![Canva](https://img.shields.io/badge/Canva-823AF3.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-    ![Sketch](https://img.shields.io/badge/Sketch-FDAD00?style=for-the-badge&logo=sketch&logoColor=white)
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Google analytic](https://img.shields.io/badge/Google%20analytic-grey.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXklEQVR4nO2aMWvbQBiGPwl8R/srumXpL+qYQtfYiazEkaCF/IP+hGInIXQNXgo+eejSLJ0KhUK3DrFlWzpFCSX9ymfJcUJq17qD3A06eDnQ9Dx6vxNnMIAFS4awLQP4LgO4zULAdZEhXGUh9GchbIENKwvg3f+gV4hI4xL5W3ghA/itIlCmb1QgDeGVBjzKADKjAjKA1zoClFpAZ8m6AahHSGvJeoSgHiGtJesRgnqEAD/DMxT8CAW/QMF+VMlVl5+ngcGrBF7AcxT8K0YcVZJ32XDUdOlSZkiA3rwi/FzgAxte7rg4brmo2oSeQMS/6Ahk3ULgsunieFetCV2Bb9oCTRdHZVQkjAuM7gmMWi6O96pJ2CPQKs7CuKKEHQKte/CUXRcnnmu/QN5jw3/BLxJTEzYLZD02XAU/FyibkLYKXB+zaB08NUCZtJ2VEmYFeqXAGvjYc3Cy5+C07WAWWCaQk8AG8BPaPQen/mMJswLHDwXWwdMYUQuJ7zz4xFojEG8Av8hsfylhhUBcAZ7GaOY7mBwUEkuYQeMlCr6Ngr/ZOBH7pSsQK8BTA7SnBw4CIrgo2HsU/I8OjNJX6IRFqvDJ/kJAsJ2nBn8k4FWHXwpE7KcpgZwEFOHpDJQN8FtjDZw2hCo87bJowAz8nYCnBk9vPzUucFYKKMKnHRsE2urwiQ0CUw14em6PgF8dPumA+UM81YA3LnBDDWjAJ4emGzhrCB34tBTIDTYw0IFPO5DRXeiTUQFfEb5Iv7hGG2rh5mNjoAqfHIK8bpd/9ih+C8ybeFKRO4GKY0NvfgH/FwA491bchYZcAAAAAElFTkSuQmCC)
     ![Power BI](https://img.shields.io/badge/Power%20BI-FFC107?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2Zy0rDUBBAz8quKiioqGB+SRBF/QWl/6fNuupGXQrqxk/QLMwqcmECIfTmJuTh3DIHsigzbed0OkmYgGEYhqGEGbAAHoEMKBQcmdRzC2y1kTgGXhUUXjQcL1JnYydKiS/gDJijgzlwCrxJfc9NnVlUJHbRyY7U5+q88SU9SYLrhGbOpc4HX8KPJGj5O/nYljq/fQnlMMVA0VSriQxEAqRyzVgCJ7F2xElUrxf3sYrkNRH3OkqRdVfxUG734ASYiO8XmeKso7ojaYezjmqRvMNZR7VI0aGQqEWSwAxFIxKaoWhEQjMUjUjfeBUTGWJY1XQk7TmsakTynsM6mUgmwb3Am8cqtK3Ifmj5UK6DLpSLXIbWQeWC7l2sNYocAB8Sc3vg4MrUJV8pE7kGPiv7X1evl6PaEluTSFGROKQFM2nbSpnISva9rR4rNPHfIoOxMSJ57Ut+J44PxjJwizJ2fDAS+XD3+OFuzU3j2HHDMAw2hz8sz1ws6P2ccwAAAABJRU5ErkJggg==&)
+    ![Tableau](https://img.shields.io/badge/tableau-3a5487?style=for-the-badge&logo=tableau&logoColor=white) 
+    ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4384f3?style=for-the-badge&logo=looker&logoColor=white) 
+
 
 
 
