@@ -52,7 +52,7 @@ I'm Wanicha Mueangcharoen, a Data Analyst and self taught UX and Graphic Designe
     ![Dplyr](https://img.shields.io/badge/Dplyr-F29A21?style=for-the-badge&logo=Dplyr&logoColor=white)
     ![Ggplot2](https://img.shields.io/badge/Ggplot2-7AB1F0?style=for-the-badge&logo=Ggplot2&logoColor=white)
     ![Tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logoColor=white)
-    ![Caret](https://img.shields.io/badge/Caret-F09A12?style=for-the-badge&logoColor=white)
+    ![Machine Learning](https://img.shields.io/badge/machine%20learning-F09A12?style=for-the-badge&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
     ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
