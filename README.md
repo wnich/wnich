@@ -48,6 +48,7 @@ I'm Wanicha Mueangcharoen, a Data Analyst and self taught UX and Graphic Designe
 
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/matplotlib-%23117AC9.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
     ![Dplyr](https://img.shields.io/badge/Dplyr-F29A21?style=for-the-badge&logo=Dplyr&logoColor=white)
     ![Ggplot2](https://img.shields.io/badge/Ggplot2-7AB1F0?style=for-the-badge&logo=Ggplot2&logoColor=white)
     ![Tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logoColor=white)
